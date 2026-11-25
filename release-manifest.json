@@ -2,11 +2,11 @@
   "manifestSchemaVersion": 1,
   "siteKey": "culture",
   "siteRepository": "site-alcohol-culture",
-  "siteCommit": "b3a9b32b8c0ab6acb7ed0f22c31cf546a277dd99",
+  "siteCommit": "0705cf6259872956e6c955290f5d1d26d3a0ceaf",
   "host": "culture.hejiu.org",
   "siteUrl": "https://culture.hejiu.org",
   "buildMode": "production",
-  "generatedAt": "2026-11-25T04:23:40.922Z",
+  "generatedAt": "2026-11-25T06:43:42.371Z",
   "coreVersion": "0.1.0",
   "contentSchemaVersion": 1,
   "contractHashes": {
@@ -27255,7 +27255,7 @@
     "aggregateSource": ".hejiu/published/culture.json",
     "includesPreview": false
   },
-  "distTreeSha256ExcludingManifest": "12d1e7601751c970e50fd3a5ae554c7552188e6925cf77289e31a4e6d1da9bbc",
+  "distTreeSha256ExcludingManifest": "4e4ffe44095153eddd43cb85f20f107048c5f3f19bd2e80ac714d995d3d43fbf",
   "status": "local-build",
   "notes": [
     "No tokens or credentials are written into this manifest.",
