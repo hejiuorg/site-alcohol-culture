@@ -6,7 +6,7 @@
   "host": "culture.hejiu.org",
   "siteUrl": "https://culture.hejiu.org",
   "buildMode": "production",
-  "generatedAt": "2026-11-26T13:40:11.201Z",
+  "generatedAt": "2026-11-27T00:33:01.896Z",
   "coreVersion": "0.1.0",
   "contentSchemaVersion": 1,
   "contractHashes": {
@@ -28183,7 +28183,7 @@
     "aggregateSource": ".hejiu/published/culture.json",
     "includesPreview": false
   },
-  "distTreeSha256ExcludingManifest": "0d6ee1109fc7834bee72126e1510515943ffb450512dbfa8032eab80069f1cb6",
+  "distTreeSha256ExcludingManifest": "bb308b1cd26f6e6bfaaaf0e7d38104f6f0cbbe51619ad3313e815e8c59524b38",
   "status": "local-build",
   "notes": [
     "No tokens or credentials are written into this manifest.",
